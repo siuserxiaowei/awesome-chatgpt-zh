@@ -15,19 +15,19 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-06",
-"stars": 1385
+"stars": 1387
 },
 "1panel-dev/maxkb": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 23175
+"pushed": "2026-11-21",
+"stars": 23180
 },
 "1rgs/claude-code-proxy": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-06-23",
-"stars": 3764
+"stars": 3765
 },
 "360ailab-nlp/360layoutanalysis": {
 "archived": false,
@@ -39,55 +39,55 @@
 "archived": false,
 "lang": "JavaScript",
 "pushed": "2026-11-19",
-"stars": 1854
+"stars": 1857
 },
 "activepieces/activepieces": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-20",
-"stars": 25628
+"stars": 25658
 },
 "affaan-m/ecc": {
 "archived": false,
 "lang": "JavaScript",
 "pushed": "2026-11-20",
-"stars": 307436
+"stars": 308000
 },
 "ag2ai/ag2": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-19",
-"stars": 5075
+"pushed": "2026-11-21",
+"stars": 5076
 },
 "agentskills/agentskills": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-04",
-"stars": 27473
+"stars": 27490
 },
 "agentsmd/agents.md": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-09-10",
-"stars": 25618
+"stars": 25629
 },
 "agno-agi/agno": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 43242
+"stars": 43251
 },
 "agricidaniel/claude-seo": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-16",
-"stars": 31011
+"stars": 31246
 },
 "ai-boost/awesome-gpts": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-17",
-"stars": 3508
+"stars": 3510
 },
 "ai4finance-foundation/fingpt": {
 "archived": false,
@@ -99,13 +99,13 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-05-22",
-"stars": 50191
+"stars": 50204
 },
 "aigc-audio/audiogpt": {
 "archived": false,
 "lang": "Python",
 "pushed": "2024-07-06",
-"stars": 10173
+"stars": 10174
 },
 "aiskillstore/marketplace": {
 "archived": false,
@@ -116,26 +116,26 @@
 "alibaba/open-code-review": {
 "archived": false,
 "lang": "Go",
-"pushed": "2026-11-20",
-"stars": 54490
+"pushed": "2026-11-21",
+"stars": 54891
 },
 "alirezarezvani/claude-skills": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-19",
-"stars": 30167
+"pushed": "2026-11-21",
+"stars": 30212
 },
 "all-hands-ai/openhands": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 93879
+"pushed": "2026-11-21",
+"stars": 93939
 },
 "allenai/olmocr": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-03-25",
-"stars": 19836
+"stars": 19838
 },
 "alpha-vllm/llama2-accessory": {
 "archived": false,
@@ -153,7 +153,7 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 19478
+"stars": 19500
 },
 "anil-matcha/awesome-gpt-image-2-api-prompts": {
 "archived": false,
@@ -164,116 +164,116 @@
 "anthropics/anthropic-cookbook": {
 "archived": false,
 "lang": "Jupyter Notebook",
-"pushed": "2026-11-19",
-"stars": 54893
+"pushed": "2026-11-20",
+"stars": 54928
 },
 "anthropics/claude-agent-sdk-python": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 8597
+"stars": 8607
 },
 "anthropics/claude-agent-sdk-typescript": {
 "archived": false,
 "lang": "Shell",
-"pushed": "2026-11-19",
-"stars": 1893
+"pushed": "2026-11-20",
+"stars": 1894
 },
 "anthropics/claude-code": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 156379
+"pushed": "2026-11-21",
+"stars": 156499
 },
 "anthropics/claude-code-action": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-19",
-"stars": 10024
+"pushed": "2026-11-21",
+"stars": 10031
 },
 "anthropics/claude-plugins-official": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 47758
+"pushed": "2026-11-21",
+"stars": 47855
 },
 "anthropics/claude-quickstarts": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-06",
-"stars": 21112
+"stars": 21123
 },
 "anthropics/knowledge-work-plugins": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 36594
+"pushed": "2026-11-21",
+"stars": 36632
 },
 "anthropics/prompt-eng-interactive-tutorial": {
 "archived": false,
 "lang": "Jupyter Notebook",
 "pushed": "2026-08-28",
-"stars": 39553
+"stars": 39598
 },
 "anthropics/sandbox-runtime": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-13",
-"stars": 7195
+"stars": 7207
 },
 "anthropics/skills": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-16",
-"stars": 197835
+"stars": 198188
 },
 "antonosika/gpt-engineer": {
 "archived": true,
 "lang": "Python",
 "pushed": "2025-05-14",
-"stars": 54949
+"stars": 54948
 },
 "anywhere-labs/dsh-desktop": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-20",
-"stars": 36464
+"stars": 36527
 },
 "apify/crawlee": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 26504
+"pushed": "2026-11-21",
+"stars": 26508
 },
 "appcypher/awesome-mcp-servers": {
 "archived": true,
 "lang": "",
 "pushed": "2026-05-06",
-"stars": 5842
+"stars": 5839
 },
 "assafelovic/gpt-researcher": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-12",
-"stars": 30791
+"stars": 30807
 },
 "astrbotdevs/astrbot": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-19",
-"stars": 47235
+"stars": 47286
 },
 "automatic1111/stable-diffusion-webui": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-03-02",
-"stars": 165364
+"stars": 165368
 },
 "awdr74100/figwright": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 1471
+"pushed": "2026-11-21",
+"stars": 1476
 },
 "awekrx/autodoc-chatgpt": {
 "archived": false,
@@ -284,14 +284,14 @@
 "awesome-dsh-plugin/awesome-dsh-plugin": {
 "archived": false,
 "lang": "JavaScript",
-"pushed": "2026-11-19",
-"stars": 25247
+"pushed": "2026-11-20",
+"stars": 25303
 },
 "ax1202/pi-feishu-lark": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-08-27",
-"stars": 60
+"stars": 59
 },
 "baai-zlab/coig": {
 "archived": false,
@@ -315,7 +315,7 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-16",
-"stars": 31349
+"stars": 31373
 },
 "behisecc/awesome-claude-skills": {
 "archived": false,
@@ -327,19 +327,19 @@
 "archived": false,
 "lang": "",
 "pushed": "2026-11-04",
-"stars": 1046
+"stars": 1049
 },
 "bentoml/openllm": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-16",
-"stars": 12608
+"stars": 12610
 },
 "berriai/litellm": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 63594
+"pushed": "2026-11-21",
+"stars": 63641
 },
 "bigscience-workshop/model_card": {
 "archived": false,
@@ -351,43 +351,43 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-01-25",
-"stars": 71700
+"stars": 71709
 },
 "black-forest-labs/flux": {
 "archived": false,
 "lang": "Python",
 "pushed": "2025-07-31",
-"stars": 26071
+"stars": 26074
 },
 "black-forest-labs/flux2": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-03-12",
-"stars": 2883
+"stars": 2886
 },
 "bleedline/aimoneyhunter": {
 "archived": false,
 "lang": "",
 "pushed": "2025-10-20",
-"stars": 18401
+"stars": 18403
 },
 "block/goose": {
 "archived": false,
 "lang": "Rust",
 "pushed": "2026-11-20",
-"stars": 56807
+"stars": 56843
 },
 "bloopai/bloop": {
 "archived": true,
 "lang": "Rust",
 "pushed": "2024-12-04",
-"stars": 9471
+"stars": 9472
 },
 "bmad-code-org/bmad-method": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 55565
+"stars": 55585
 },
 "bobleer/deepseek-harness-plugin-mcp": {
 "archived": false,
@@ -398,19 +398,19 @@
 "botpress/botpress": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-18",
+"pushed": "2026-11-21",
 "stars": 15004
 },
 "bozhoudev/codex-orange-book": {
 "archived": false,
 "lang": "HTML",
 "pushed": "2026-08-14",
-"stars": 3536
+"stars": 3533
 },
 "brave/brave-search-mcp-server": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-19",
+"pushed": "2026-11-20",
 "stars": 1585
 },
 "browsemake/browser-cli": {
@@ -422,44 +422,44 @@
 "browser-use/browser-use": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 121561
+"pushed": "2026-11-21",
+"stars": 121647
 },
 "browser-use/web-ui": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-09-25",
-"stars": 16661
+"stars": 16663
 },
 "browserbase/open-operator": {
 "archived": true,
 "lang": "TypeScript",
 "pushed": "2026-05-04",
-"stars": 1943
+"stars": 1942
 },
 "browserbase/stagehand": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 26096
+"pushed": "2026-11-21",
+"stars": 26108
 },
 "browsermcp/mcp": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-12",
-"stars": 7388
+"stars": 7394
 },
 "builderio/gpt-crawler": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2025-07-07",
-"stars": 22412
+"stars": 22410
 },
 "builderio/skills": {
 "archived": false,
 "lang": "JavaScript",
 "pushed": "2026-11-19",
-"stars": 4677
+"stars": 4680
 },
 "butterbase-ai/butterbase": {
 "archived": false,
@@ -470,14 +470,14 @@
 "byaidu/pdfmathtranslate": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 38550
+"pushed": "2026-11-21",
+"stars": 38568
 },
 "bytebot-ai/bytebot": {
 "archived": true,
 "lang": "TypeScript",
 "pushed": "2025-09-12",
-"stars": 11071
+"stars": 11072
 },
 "bytedance-seed/bagel": {
 "archived": false,
@@ -488,38 +488,38 @@
 "bytedance/deer-flow": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 85544
+"pushed": "2026-11-21",
+"stars": 85566
 },
 "bytedance/ui-tars": {
 "archived": true,
 "lang": "Python",
 "pushed": "2026-01-27",
-"stars": 11700
+"stars": 11699
 },
 "bytedance/ui-tars-desktop": {
 "archived": true,
 "lang": "TypeScript",
 "pushed": "2026-10-09",
-"stars": 39605
+"stars": 39607
 },
 "calcium-ion/new-api": {
 "archived": false,
 "lang": "Go",
 "pushed": "2026-11-20",
-"stars": 52261
+"stars": 52295
 },
 "camel-ai/camel": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-16",
-"stars": 18048
+"stars": 18051
 },
 "can1357/oh-my-pi": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 39513
+"pushed": "2026-11-21",
+"stars": 39556
 },
 "capitalthought/agentsfirst": {
 "archived": false,
@@ -530,38 +530,38 @@
 "casdoor/casdoor": {
 "archived": false,
 "lang": "Go",
-"pushed": "2026-11-19",
-"stars": 14912
+"pushed": "2026-11-20",
+"stars": 14918
 },
 "ccusage/ccusage": {
 "archived": false,
 "lang": "Rust",
-"pushed": "2026-11-20",
-"stars": 19523
+"pushed": "2026-11-21",
+"stars": 19531
 },
 "charmbracelet/crush": {
 "archived": false,
 "lang": "Go",
-"pushed": "2026-11-20",
-"stars": 29144
+"pushed": "2026-11-21",
+"stars": 29153
 },
 "chatboxai/chatbox": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-18",
-"stars": 42442
+"stars": 42456
 },
 "chatgptnextweb/nextchat": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-10-20",
-"stars": 88985
+"stars": 88982
 },
 "chenhg5/cc-connect": {
 "archived": false,
 "lang": "Go",
-"pushed": "2026-11-20",
-"stars": 16446
+"pushed": "2026-11-21",
+"stars": 16445
 },
 "chenking2020/findthechatgpter": {
 "archived": false,
@@ -578,20 +578,20 @@
 "cherryhq/cherry-studio": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 53678
+"pushed": "2026-11-21",
+"stars": 53709
 },
 "chroma-core/chroma": {
 "archived": false,
 "lang": "Rust",
-"pushed": "2026-11-13",
-"stars": 29715
+"pushed": "2026-11-20",
+"stars": 29721
 },
 "chromedevtools/chrome-devtools-mcp": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-20",
-"stars": 58434
+"stars": 58587
 },
 "cinnamon/kotaemon": {
 "archived": false,
@@ -603,37 +603,37 @@
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-02",
-"stars": 23399
+"stars": 23409
 },
 "cline/cline": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-19",
-"stars": 71786
+"pushed": "2026-11-21",
+"stars": 71800
 },
 "cloakhq/cloakbrowser": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 32992
+"stars": 33007
 },
 "cloudflare/computer": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-19",
-"stars": 9937
+"pushed": "2026-11-20",
+"stars": 9944
 },
 "cloudflare/mcp-server-cloudflare": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-10-22",
-"stars": 4479
+"stars": 4483
 },
 "cloudflare/security-audit-skill": {
 "archived": false,
 "lang": "JavaScript",
 "pushed": "2026-09-14",
-"stars": 75986
+"stars": 76414
 },
 "clue-ai/chatyuan": {
 "archived": false,
@@ -644,32 +644,32 @@
 "cobusgreyling/loop-engineering": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 11811
+"pushed": "2026-11-21",
+"stars": 11815
 },
 "coleam00/archon": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-19",
-"stars": 23963
+"pushed": "2026-11-20",
+"stars": 23970
 },
 "comfy-org/comfyui": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 147740
+"pushed": "2026-11-21",
+"stars": 147881
 },
 "comfyanonymous/comfyui": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 147741
+"pushed": "2026-11-21",
+"stars": 147881
 },
 "composiohq/awesome-claude-skills": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-09-18",
-"stars": 79913
+"stars": 79971
 },
 "conghui/replaycode": {
 "archived": false,
@@ -681,30 +681,30 @@
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-20",
-"stars": 36524
+"stars": 36532
 },
 "continuum-ai-corp/orca-ai-incident-archive": {
 "archived": false,
 "lang": "HTML",
 "pushed": "2026-11-12",
-"stars": 379
+"stars": 157
 },
 "continuum-ai-corp/orcareplay": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-10-01",
-"stars": 1035
+"stars": 1073
 },
 "copilotkit/openbot": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 13005
+"pushed": "2026-11-21",
+"stars": 13096
 },
 "copilotkit/opentag": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
+"pushed": "2026-11-21",
 "stars": 1307
 },
 "cosmosshadow/gptpdf": {
@@ -717,19 +717,19 @@
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-07-29",
-"stars": 21818
+"stars": 21822
 },
 "crewaiinc/crewai": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 61121
+"pushed": "2026-11-21",
+"stars": 61137
 },
 "crystaldba/postgres-mcp": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-08-17",
-"stars": 3490
+"stars": 3491
 },
 "cyyself/opentihui": {
 "archived": false,
@@ -741,31 +741,31 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-17",
-"stars": 104520
+"stars": 104721
 },
 "daijro/camoufox": {
 "archived": false,
 "lang": "C",
 "pushed": "2026-11-19",
-"stars": 13472
+"stars": 13516
 },
 "dair-ai/prompt-engineering-guide": {
 "archived": false,
 "lang": "MDX",
 "pushed": "2026-03-11",
-"stars": 80220
+"stars": 80254
 },
 "dalinvip/awesome-chatgpt": {
 "archived": false,
 "lang": "",
 "pushed": "2025-06-04",
-"stars": 4208
+"stars": 4209
 },
 "danny-avila/librechat": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 47363
+"pushed": "2026-11-21",
+"stars": 47379
 },
 "databrickslabs/dolly": {
 "archived": false,
@@ -776,8 +776,8 @@
 "davila7/claude-code-templates": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 34018
+"pushed": "2026-11-21",
+"stars": 34045
 },
 "deepdoctection/deepdoctection": {
 "archived": false,
@@ -789,13 +789,13 @@
 "archived": false,
 "lang": "C++",
 "pushed": "2026-11-17",
-"stars": 10488
+"stars": 10490
 },
 "deepseek-ai/awesome-deepseek-agent": {
 "archived": false,
 "lang": "",
 "pushed": "2026-09-17",
-"stars": 6461
+"stars": 6465
 },
 "deepseek-ai/awesome-deepseek-coder": {
 "archived": false,
@@ -807,37 +807,37 @@
 "archived": false,
 "lang": "",
 "pushed": "2026-11-13",
-"stars": 39967
+"stars": 39983
 },
 "deepseek-ai/deepep": {
 "archived": false,
 "lang": "Cuda",
 "pushed": "2026-11-20",
-"stars": 10459
+"stars": 10462
 },
 "deepseek-ai/deepgemm": {
 "archived": false,
 "lang": "Cuda",
 "pushed": "2026-11-19",
-"stars": 9208
+"stars": 9210
 },
 "deepseek-ai/deepseek-coder-v2": {
 "archived": false,
 "lang": "",
 "pushed": "2025-11-11",
-"stars": 7036
+"stars": 7038
 },
 "deepseek-ai/deepseek-harness": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-18",
-"stars": 284437
+"stars": 284828
 },
 "deepseek-ai/deepseek-llm": {
 "archived": false,
 "lang": "Makefile",
 "pushed": "2024-02-04",
-"stars": 7277
+"stars": 7281
 },
 "deepseek-ai/deepseek-math": {
 "archived": false,
@@ -855,25 +855,25 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-01-27",
-"stars": 24177
+"stars": 24180
 },
 "deepseek-ai/deepseek-ocr-2": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-02-03",
-"stars": 3558
+"stars": 3556
 },
 "deepseek-ai/deepseek-prover-v2": {
 "archived": false,
 "lang": "",
 "pushed": "2025-07-18",
-"stars": 1330
+"stars": 1331
 },
 "deepseek-ai/deepseek-r1": {
 "archived": false,
 "lang": "",
 "pushed": "2025-06-27",
-"stars": 92051
+"stars": 92053
 },
 "deepseek-ai/deepseek-v2": {
 "archived": false,
@@ -885,7 +885,7 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2025-08-28",
-"stars": 104875
+"stars": 104882
 },
 "deepseek-ai/deepseek-v3.2-exp": {
 "archived": false,
@@ -903,7 +903,7 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-01-14",
-"stars": 3034
+"stars": 3036
 },
 "deepseek-ai/engram": {
 "archived": false,
@@ -915,7 +915,7 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2025-03-24",
-"stars": 1478
+"stars": 1479
 },
 "deepseek-ai/esft": {
 "archived": false,
@@ -927,19 +927,19 @@
 "archived": false,
 "lang": "C++",
 "pushed": "2026-10-27",
-"stars": 13277
+"stars": 13275
 },
 "deepseek-ai/janus": {
 "archived": false,
 "lang": "Python",
 "pushed": "2025-02-01",
-"stars": 17770
+"stars": 17773
 },
 "deepseek-ai/lplb": {
 "archived": false,
 "lang": "Python",
 "pushed": "2025-11-19",
-"stars": 552
+"stars": 553
 },
 "deepseek-ai/open-infra-index": {
 "archived": false,
@@ -963,13 +963,13 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-10-14",
-"stars": 2079
+"stars": 2080
 },
 "deepset-ai/haystack": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 27059
+"pushed": "2026-11-21",
+"stars": 27067
 },
 "deeptecher/awesome-chatgpt-resource-zh": {
 "archived": false,
@@ -999,13 +999,13 @@
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-18",
-"stars": 3403
+"stars": 3402
 },
 "disler/pi-vs-claude-code": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-07-10",
-"stars": 1719
+"stars": 1722
 },
 "dmontgomery40/deepseek-mcp-server": {
 "archived": false,
@@ -1016,8 +1016,8 @@
 "docling-project/docling": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 70804
+"pushed": "2026-11-21",
+"stars": 70834
 },
 "domeccleston/sharegpt": {
 "archived": true,
@@ -1029,19 +1029,19 @@
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-10-30",
-"stars": 434
+"stars": 435
 },
 "donchitos/claude-code-game-studios": {
 "archived": false,
 "lang": "Shell",
 "pushed": "2026-11-09",
-"stars": 40282
+"stars": 40437
 },
 "droidrun/mobilerun": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-18",
-"stars": 10073
+"stars": 10085
 },
 "dsdanielpark/amazing-bard-prompts": {
 "archived": false,
@@ -1053,43 +1053,43 @@
 "archived": true,
 "lang": "Python",
 "pushed": "2024-04-24",
-"stars": 5154
+"stars": 5153
 },
 "duty1g/x64dbg-mcp-server": {
 "archived": false,
 "lang": "Zig",
 "pushed": "2026-11-15",
-"stars": 2849
+"stars": 2850
 },
 "e10nma2k/cc-mini": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-06-10",
-"stars": 976
+"stars": 977
 },
 "e2b-dev/open-computer-use": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-10-23",
-"stars": 2411
+"stars": 2412
 },
 "earendil-works/pi": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 122992
+"pushed": "2026-11-21",
+"stars": 123112
 },
 "elder-plinius/cl4r1t4s": {
 "archived": false,
 "lang": "",
 "pushed": "2026-11-09",
-"stars": 53703
+"stars": 53723
 },
 "eleutherai/gpt-neox": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 7474
+"pushed": "2026-11-21",
+"stars": 7475
 },
 "eli64s/readme-ai": {
 "archived": false,
@@ -1101,7 +1101,7 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-18",
-"stars": 69263
+"stars": 69293
 },
 "emcf/engshell": {
 "archived": false,
@@ -1113,19 +1113,19 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-05-04",
-"stars": 1255
+"stars": 1256
 },
 "eosphoros-ai/db-gpt": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-19",
-"stars": 20319
+"pushed": "2026-11-21",
+"stars": 20320
 },
 "esengine/deepseek-reasonix": {
 "archived": true,
 "lang": "Go",
 "pushed": "2026-11-12",
-"stars": 36098
+"stars": 36093
 },
 "eugeneyan/open-llms": {
 "archived": false,
@@ -1148,20 +1148,20 @@
 "f/awesome-chatgpt-prompts": {
 "archived": false,
 "lang": "MDX",
-"pushed": "2026-11-20",
-"stars": 177930
+"pushed": "2026-11-21",
+"stars": 178103
 },
 "facebookresearch/codellama": {
 "archived": true,
 "lang": "Python",
 "pushed": "2024-08-12",
-"stars": 16207
+"stars": 16204
 },
 "facebookresearch/faiss": {
 "archived": false,
 "lang": "C++",
-"pushed": "2026-11-19",
-"stars": 41828
+"pushed": "2026-11-20",
+"stars": 41840
 },
 "facebookresearch/llama": {
 "archived": false,
@@ -1173,13 +1173,13 @@
 "archived": false,
 "lang": "Jupyter Notebook",
 "pushed": "2024-09-18",
-"stars": 55169
+"stars": 55172
 },
 "farion1231/cc-switch": {
 "archived": false,
 "lang": "Rust",
-"pushed": "2026-11-20",
-"stars": 155933
+"pushed": "2026-11-21",
+"stars": 156098
 },
 "fengyuli-dev/multimedia-gpt": {
 "archived": false,
@@ -1197,13 +1197,13 @@
 "archived": false,
 "lang": "Rust",
 "pushed": "2026-11-18",
-"stars": 23627
+"stars": 23643
 },
 "firecrawl/firecrawl": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 204598
+"pushed": "2026-11-21",
+"stars": 205561
 },
 "fkiene/llmtrim": {
 "archived": false,
@@ -1227,19 +1227,19 @@
 "archived": true,
 "lang": "TypeScript",
 "pushed": "2026-08-13",
-"stars": 55578
+"stars": 55585
 },
 "foundationagents/metagpt": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-01-21",
-"stars": 71364
+"stars": 71372
 },
 "foundationagents/openmanus": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-02",
-"stars": 58995
+"stars": 59001
 },
 "foundationvision/infinity": {
 "archived": false,
@@ -1251,19 +1251,19 @@
 "archived": false,
 "lang": "",
 "pushed": "2024-07-21",
-"stars": 6608
+"stars": 6610
 },
 "fuergaosi233/claude-code-proxy": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-03-12",
-"stars": 2798
+"stars": 2799
 },
 "geekan/metagpt": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-01-21",
-"stars": 71364
+"stars": 71372
 },
 "gencay/vscode-chatgpt": {
 "archived": false,
@@ -1275,55 +1275,55 @@
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-20",
-"stars": 12668
+"stars": 12719
 },
 "getmaxun/maxun": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-20",
-"stars": 18529
+"stars": 18537
 },
 "getsentry/sentry-mcp": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 970
+"pushed": "2026-11-21",
+"stars": 972
 },
 "ggerganov/llama.cpp": {
 "archived": false,
 "lang": "C++",
-"pushed": "2026-11-20",
-"stars": 135803
+"pushed": "2026-11-21",
+"stars": 135896
 },
 "ggml-org/llama.cpp": {
 "archived": false,
 "lang": "C++",
-"pushed": "2026-11-20",
-"stars": 135803
+"pushed": "2026-11-21",
+"stars": 135896
 },
 "giskard-ai/giskard-oss": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 5960
+"stars": 5965
 },
 "github/github-mcp-server": {
 "archived": false,
 "lang": "Go",
-"pushed": "2026-11-19",
-"stars": 34608
+"pushed": "2026-11-20",
+"stars": 34635
 },
 "github/spec-kit": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-19",
-"stars": 150750
+"pushed": "2026-11-20",
+"stars": 150862
 },
 "gkamradt/langchain-tutorials": {
 "archived": false,
 "lang": "Jupyter Notebook",
 "pushed": "2024-08-05",
-"stars": 7494
+"stars": 7493
 },
 "gmpetrov/databerry": {
 "archived": false,
@@ -1335,13 +1335,13 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-19",
-"stars": 5861
+"stars": 5865
 },
 "google-gemini/gemini-cli": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 108947
+"pushed": "2026-11-21",
+"stars": 108961
 },
 "google-research/android_world": {
 "archived": false,
@@ -1352,32 +1352,32 @@
 "google/gemma.cpp": {
 "archived": false,
 "lang": "C++",
-"pushed": "2026-11-19",
-"stars": 7088
+"pushed": "2026-11-20",
+"stars": 7089
 },
 "google/gemma_pytorch": {
 "archived": true,
 "lang": "Python",
 "pushed": "2025-05-30",
-"stars": 5708
+"stars": 5709
 },
 "gptlink/gptlink": {
 "archived": false,
 "lang": "PHP",
 "pushed": "2026-08-14",
-"stars": 2620
+"stars": 2621
 },
 "graphify-labs/graphify": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 150806
+"stars": 151328
 },
 "greydgl/pentestgpt": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-07-14",
-"stars": 16522
+"stars": 16534
 },
 "guangzhengli/chatfiles": {
 "archived": false,
@@ -1395,13 +1395,13 @@
 "archived": false,
 "lang": "Rust",
 "pushed": "2026-11-01",
-"stars": 3565
+"stars": 3566
 },
 "hannibal046/awesome-llm": {
 "archived": false,
 "lang": "",
 "pushed": "2025-07-31",
-"stars": 27511
+"stars": 27514
 },
 "harnesslab/claw-code-agent": {
 "archived": false,
@@ -1412,37 +1412,37 @@
 "harry0703/moneyprinterturbo": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 144769
+"pushed": "2026-11-21",
+"stars": 144878
 },
 "headroomlabs-ai/headroom": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 80187
+"stars": 80227
 },
 "hesreallyhim/awesome-claude-code": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 58406
+"pushed": "2026-11-21",
+"stars": 58486
 },
 "heymrun/heym": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 1790
+"pushed": "2026-11-21",
+"stars": 1819
 },
 "higress-group/higress": {
 "archived": false,
 "lang": "Go",
 "pushed": "2026-11-18",
-"stars": 9799
+"stars": 9804
 },
 "hirokawaguchi/open-genai": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
+"pushed": "2026-11-21",
 "stars": 142
 },
 "hiyouga/chatglm-efficient-tuning": {
@@ -1455,7 +1455,7 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-19",
-"stars": 76147
+"stars": 76169
 },
 "hkuds/agentspace": {
 "archived": false,
@@ -1467,7 +1467,7 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2025-10-16",
-"stars": 9842
+"stars": 9840
 },
 "hkust-nlp/simplerl-reason": {
 "archived": false,
@@ -1491,25 +1491,25 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 30455
+"stars": 30464
 },
 "huggingface/transformers": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 169308
+"pushed": "2026-11-21",
+"stars": 169337
 },
 "hwchase17/langchain": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 149953
+"pushed": "2026-11-21",
+"stars": 149987
 },
 "imartinez/privategpt": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-19",
-"stars": 57646
+"stars": 57644
 },
 "imaurer/awesome-decentralized-llm": {
 "archived": false,
@@ -1521,19 +1521,19 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2025-11-10",
-"stars": 38715
+"stars": 38713
 },
 "infiniflow/ragflow": {
 "archived": false,
 "lang": "Go",
 "pushed": "2026-11-20",
-"stars": 94466
+"stars": 94495
 },
 "inkeep/open-knowledge": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 4878
+"pushed": "2026-11-21",
+"stars": 4881
 },
 "intel/intel-extension-for-transformers": {
 "archived": true,
@@ -1556,68 +1556,68 @@
 "invoke-ai/invokeai": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 29129
+"pushed": "2026-11-21",
+"stars": 29133
 },
 "iofficeai/officecli": {
 "archived": false,
 "lang": "C#",
 "pushed": "2026-11-20",
-"stars": 33474
+"stars": 33494
 },
 "ivanmurzak/godot-mcp": {
 "archived": false,
 "lang": "C#",
-"pushed": "2026-11-19",
-"stars": 358
+"pushed": "2026-11-21",
+"stars": 362
 },
 "jackmort/chatgpt.nvim": {
 "archived": false,
 "lang": "Lua",
 "pushed": "2026-01-13",
-"stars": 3987
+"stars": 3986
 },
 "jakubkrehel/skills": {
 "archived": false,
 "lang": "Markdown",
 "pushed": "2026-11-19",
-"stars": 12451
+"stars": 12523
 },
 "jamez-bondos/awesome-gpt4o-images": {
 "archived": false,
 "lang": "JavaScript",
 "pushed": "2025-05-26",
-"stars": 8170
+"stars": 8171
 },
 "jeinlee1991/chinese-llm-benchmark": {
 "archived": false,
 "lang": "",
-"pushed": "2026-11-18",
-"stars": 6521
+"pushed": "2026-11-20",
+"stars": 6522
 },
 "jerryjliu/llama_index": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 52966
+"stars": 52973
 },
 "jev-chat/jev-chat-jarvis": {
 "archived": false,
 "lang": "Kotlin",
 "pushed": "2026-11-05",
-"stars": 8475
+"stars": 8484
 },
 "jiayi-pan/tinyzero": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-02-27",
-"stars": 13259
+"stars": 13260
 },
 "jimliu/baoyu-design": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-19",
-"stars": 73
+"pushed": "2026-11-21",
+"stars": 82
 },
 "jimmylv/awesome-nano-banana": {
 "archived": false,
@@ -1629,31 +1629,31 @@
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-05-22",
-"stars": 12273
+"stars": 12274
 },
 "jmorganca/ollama": {
 "archived": false,
 "lang": "Go",
-"pushed": "2026-11-19",
-"stars": 187709
+"pushed": "2026-11-21",
+"stars": 187797
 },
 "jncraton/languagemodels": {
 "archived": false,
 "lang": "HTML",
 "pushed": "2026-02-19",
-"stars": 1186
+"stars": 1185
 },
 "jnmetacode/agency-agents-zh": {
 "archived": false,
 "lang": "Shell",
 "pushed": "2026-11-18",
-"stars": 22211
+"stars": 22230
 },
 "js-lee-ai/awesome-llm-agent-papers": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-14",
-"stars": 114
+"stars": 115
 },
 "jtsang4/claude-to-chatgpt": {
 "archived": false,
@@ -1665,31 +1665,31 @@
 "archived": false,
 "lang": "",
 "pushed": "2026-09-23",
-"stars": 15022
+"stars": 15026
 },
 "juliusbrussee/caveman": {
 "archived": false,
 "lang": "Go",
 "pushed": "2026-11-20",
-"stars": 121646
+"stars": 121842
 },
 "jupyterlab/jupyter-ai": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 4448
+"pushed": "2026-11-21",
+"stars": 4450
 },
 "jushbjj/mr.-ranedeer-ai-tutor": {
 "archived": false,
 "lang": "",
 "pushed": "2025-09-30",
-"stars": 29531
+"stars": 29530
 },
 "jxnl/instructor": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-19",
-"stars": 14126
+"stars": 14130
 },
 "karanb192/awesome-claude-skills": {
 "archived": false,
@@ -1707,49 +1707,49 @@
 "archived": false,
 "lang": "C",
 "pushed": "2024-08-06",
-"stars": 20296
+"stars": 20304
 },
 "karpathy/llm.c": {
 "archived": false,
 "lang": "Cuda",
 "pushed": "2025-06-26",
-"stars": 31513
+"stars": 31516
 },
 "karpathy/micrograd": {
 "archived": false,
 "lang": "Jupyter Notebook",
 "pushed": "2026-08-03",
-"stars": 19023
+"stars": 19034
 },
 "karpathy/mingpt": {
 "archived": false,
 "lang": "Python",
 "pushed": "2024-08-15",
-"stars": 25040
+"stars": 25044
 },
 "karpathy/nanochat": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-09-07",
-"stars": 60734
+"stars": 60745
 },
 "karpathy/nanogpt": {
 "archived": false,
 "lang": "Python",
 "pushed": "2025-11-12",
-"stars": 64945
+"stars": 64968
 },
 "karpathy/nn-zero-to-hero": {
 "archived": false,
 "lang": "Jupyter Notebook",
 "pushed": "2024-08-18",
-"stars": 25862
+"stars": 25892
 },
 "kbwo/ccmanager": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-10-27",
-"stars": 1279
+"stars": 1280
 },
 "kejunmao/ai-anything": {
 "archived": false,
@@ -1766,20 +1766,20 @@
 "kilo-org/kilocode": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 28059
+"pushed": "2026-11-21",
+"stars": 28067
 },
 "kirodotdev/kirocrew": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 5011
+"pushed": "2026-11-21",
+"stars": 5021
 },
 "kohya-ss/sd-scripts": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 7269
+"pushed": "2026-11-21",
+"stars": 7270
 },
 "komoridev/nonebot-plugin-deepseek": {
 "archived": false,
@@ -1791,13 +1791,13 @@
 "archived": false,
 "lang": "Go",
 "pushed": "2026-07-16",
-"stars": 1903
+"stars": 1900
 },
 "kortix-ai/suna": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 20774
+"pushed": "2026-11-21",
+"stars": 20781
 },
 "krisyangdev/motionboard": {
 "archived": false,
@@ -1821,43 +1821,43 @@
 "archived": false,
 "lang": "Rust",
 "pushed": "2026-11-20",
-"stars": 3774
+"stars": 3776
 },
 "kvcache-ai/ktransformers": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-13",
-"stars": 19685
+"stars": 19687
 },
 "kyrolabs/awesome-langchain": {
 "archived": false,
 "lang": "",
 "pushed": "2026-11-11",
-"stars": 9600
+"stars": 9601
 },
 "labring/fastgpt": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 30076
+"pushed": "2026-11-21",
+"stars": 30079
 },
 "laion-ai/open-assistant": {
 "archived": false,
 "lang": "Python",
 "pushed": "2024-08-17",
-"stars": 37348
+"stars": 37345
 },
 "lancedb/lancedb": {
 "archived": false,
 "lang": "Rust",
-"pushed": "2026-11-20",
-"stars": 11951
+"pushed": "2026-11-21",
+"stars": 11959
 },
 "langchain-ai/langchain": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 149953
+"pushed": "2026-11-21",
+"stars": 149987
 },
 "langchain-ai/langchain-aiplugin": {
 "archived": true,
@@ -1869,43 +1869,43 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 45179
+"stars": 45220
 },
 "langchain-ai/openwiki": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 18034
+"pushed": "2026-11-21",
+"stars": 18046
 },
 "langflow-ai/langflow": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 156791
+"pushed": "2026-11-21",
+"stars": 156817
 },
 "langfuse/langfuse": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 37658
+"pushed": "2026-11-21",
+"stars": 37689
 },
 "langgenius/dify": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 161554
+"pushed": "2026-11-21",
+"stars": 161604
 },
 "langgptai/awesome-claude-prompts": {
 "archived": false,
 "lang": "",
 "pushed": "2026-11-14",
-"stars": 5588
+"stars": 5589
 },
 "lavague-ai/lavague": {
 "archived": false,
 "lang": "Python",
 "pushed": "2025-01-21",
-"stars": 6398
+"stars": 6397
 },
 "lc1332/luotuo-chinese-llm": {
 "archived": false,
@@ -1917,19 +1917,19 @@
 "archived": false,
 "lang": "Go",
 "pushed": "2025-07-08",
-"stars": 5619
+"stars": 5620
 },
 "lemma-work/lemma-platform": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 657
+"pushed": "2026-11-21",
+"stars": 658
 },
 "leonxlnx/taste-skill": {
 "archived": false,
 "lang": "JavaScript",
 "pushed": "2026-11-08",
-"stars": 119064
+"stars": 119468
 },
 "lessweb/deepcode-cli": {
 "archived": false,
@@ -1941,7 +1941,7 @@
 "archived": false,
 "lang": "C++",
 "pushed": "2024-07-31",
-"stars": 2959
+"stars": 2960
 },
 "lianjiatech/belle": {
 "archived": false,
@@ -1959,49 +1959,49 @@
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-04-02",
-"stars": 6472
+"stars": 6471
 },
 "lidge-jun/opencodex": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-19",
-"stars": 18679
+"pushed": "2026-11-21",
+"stars": 18689
 },
 "lightning-ai/lit-llama": {
 "archived": false,
 "lang": "Python",
 "pushed": "2025-07-01",
-"stars": 6080
+"stars": 6079
 },
 "lilittlecat/awesome-free-chatgpt": {
 "archived": false,
 "lang": "Python",
 "pushed": "2025-06-23",
-"stars": 21372
+"stars": 21373
 },
 "liyupi/ai-guide": {
 "archived": false,
 "lang": "JavaScript",
 "pushed": "2026-11-12",
-"stars": 22257
+"stars": 22270
 },
 "lllyasviel/controlnet": {
 "archived": false,
 "lang": "Python",
 "pushed": "2024-02-25",
-"stars": 34157
+"stars": 34156
 },
 "lllyasviel/fooocus": {
 "archived": false,
 "lang": "Python",
 "pushed": "2025-12-01",
-"stars": 53965
+"stars": 53966
 },
 "lllyasviel/stable-diffusion-webui-forge": {
 "archived": false,
 "lang": "Python",
 "pushed": "2025-07-31",
-"stars": 13143
+"stars": 13144
 },
 "lm-sys/fastchat": {
 "archived": false,
@@ -2018,20 +2018,20 @@
 "lobehub/lobe-chat": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 85909
+"pushed": "2026-11-21",
+"stars": 85938
 },
 "logspace-ai/langflow": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 156791
+"pushed": "2026-11-21",
+"stars": 156817
 },
 "lss233/chatgpt-mirai-qq-bot": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-10-22",
-"stars": 19294
+"stars": 19296
 },
 "lucassssss/eechat": {
 "archived": false,
@@ -2049,7 +2049,7 @@
 "archived": false,
 "lang": "C#",
 "pushed": "2026-11-17",
-"stars": 9056
+"stars": 9060
 },
 "manutej/luxor-claude-marketplace": {
 "archived": false,
@@ -2060,98 +2060,98 @@
 "markus-global/markus": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
+"pushed": "2026-11-21",
 "stars": 219
 },
 "mattpocock/skills": {
 "archived": false,
 "lang": "Shell",
 "pushed": "2026-11-19",
-"stars": 328386
+"stars": 329202
 },
 "mckaywrigley/ai-code-translator": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2023-12-21",
-"stars": 4158
+"stars": 4159
 },
 "mckaywrigley/chatbot-ui": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2024-08-03",
-"stars": 33305
+"stars": 33311
 },
 "mcmonkeyprojects/swarmui": {
 "archived": false,
 "lang": "C#",
 "pushed": "2026-11-12",
-"stars": 4801
+"stars": 4804
 },
 "mem0ai/mem0": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-18",
-"stars": 69263
+"stars": 69293
 },
 "mempalace/mempalace": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 60634
+"stars": 60645
 },
 "mendableai/firecrawl-mcp-server": {
 "archived": false,
 "lang": "JavaScript",
-"pushed": "2026-11-19",
-"stars": 7867
+"pushed": "2026-11-20",
+"stars": 7871
 },
 "meta-llama/llama-agentic-system": {
 "archived": true,
 "lang": "",
 "pushed": "2025-08-05",
-"stars": 4285
+"stars": 4286
 },
 "meta-llama/llama-models": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-02-11",
-"stars": 7726
+"stars": 7727
 },
 "meta-llama/llama-recipes": {
 "archived": false,
 "lang": "Jupyter Notebook",
 "pushed": "2026-05-19",
-"stars": 18597
+"stars": 18595
 },
 "meta-llama/llama-toolchain": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-19",
+"pushed": "2026-11-20",
 "stars": 8467
 },
 "meta-llama/purplellama": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-13",
-"stars": 4485
+"pushed": "2026-11-20",
+"stars": 4486
 },
 "microsoft/ai-agents-for-beginners": {
 "archived": false,
 "lang": "Jupyter Notebook",
 "pushed": "2026-11-17",
-"stars": 80546
+"stars": 80653
 },
 "microsoft/ai-for-beginners": {
 "archived": false,
 "lang": "Jupyter Notebook",
 "pushed": "2026-11-15",
-"stars": 71034
+"stars": 71065
 },
 "microsoft/autogen": {
-"archived": false,
+"archived": true,
 "lang": "Python",
 "pushed": "2026-11-12",
-"stars": 61948
+"stars": 61955
 },
 "microsoft/azurechatgpt": {
 "archived": true,
@@ -2162,44 +2162,44 @@
 "microsoft/flaml": {
 "archived": false,
 "lang": "Jupyter Notebook",
-"pushed": "2026-11-19",
+"pushed": "2026-11-21",
 "stars": 4422
 },
 "microsoft/flint-chart": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-17",
-"stars": 4590
+"stars": 4594
 },
 "microsoft/generative-ai-for-beginners": {
 "archived": false,
 "lang": "Jupyter Notebook",
 "pushed": "2026-11-19",
-"stars": 123880
+"stars": 123930
 },
 "microsoft/graphrag": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-19",
-"stars": 36697
+"stars": 36708
 },
 "microsoft/guidance": {
 "archived": false,
 "lang": "Jupyter Notebook",
 "pushed": "2026-05-21",
-"stars": 21827
+"stars": 21828
 },
 "microsoft/jarvis": {
 "archived": false,
 "lang": "Python",
 "pushed": "2025-07-29",
-"stars": 25728
+"stars": 25738
 },
 "microsoft/markitdown": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-07",
-"stars": 197119
+"stars": 197303
 },
 "microsoft/nlweb": {
 "archived": false,
@@ -2211,7 +2211,7 @@
 "archived": false,
 "lang": "Jupyter Notebook",
 "pushed": "2026-11-14",
-"stars": 25629
+"stars": 25630
 },
 "microsoft/phi-3cookbook": {
 "archived": false,
@@ -2222,50 +2222,50 @@
 "microsoft/playwright": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 100636
+"pushed": "2026-11-21",
+"stars": 100703
 },
 "microsoft/playwright-mcp": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-18",
-"stars": 39920
+"stars": 39951
 },
 "microsoft/promptflow": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-16",
-"stars": 11269
+"stars": 11270
 },
 "microsoft/semantic-kernel": {
 "archived": false,
 "lang": "C#",
-"pushed": "2026-11-19",
+"pushed": "2026-11-20",
 "stars": 28791
 },
 "microsoft/skill-recorder": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-19",
-"stars": 5870
+"stars": 5881
 },
 "microsoft/skillopt": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-17",
-"stars": 19166
+"stars": 19177
 },
 "microsoft/typechat": {
 "archived": false,
 "lang": "JavaScript",
 "pushed": "2026-11-12",
-"stars": 8692
+"stars": 8693
 },
 "milvus-io/milvus": {
 "archived": false,
 "lang": "Go",
-"pushed": "2026-11-20",
-"stars": 46705
+"pushed": "2026-11-21",
+"stars": 46712
 },
 "minorjerry/webvoyager": {
 "archived": false,
@@ -2276,14 +2276,14 @@
 "mintplex-labs/anything-llm": {
 "archived": false,
 "lang": "JavaScript",
-"pushed": "2026-11-20",
-"stars": 68456
+"pushed": "2026-11-21",
+"stars": 68476
 },
 "mishushakov/llm-scraper": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-10-26",
-"stars": 6957
+"stars": 6956
 },
 "mistralai/mistral-src": {
 "archived": true,
@@ -2294,8 +2294,8 @@
 "mlc-ai/mlc-llm": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-18",
-"stars": 23401
+"pushed": "2026-11-21",
+"stars": 23406
 },
 "mlfoundations/open_flamingo": {
 "archived": false,
@@ -2307,13 +2307,13 @@
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-19",
-"stars": 92129
+"stars": 92141
 },
 "modelcontextprotocol/typescript-sdk": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-19",
-"stars": 13790
+"stars": 13794
 },
 "modelscope/awesome-vibe-research": {
 "archived": false,
@@ -2325,7 +2325,7 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 13420
+"stars": 13423
 },
 "modelstudioai/cli": {
 "archived": false,
@@ -2349,7 +2349,7 @@
 "archived": false,
 "lang": "",
 "pushed": "2026-08-06",
-"stars": 9103
+"stars": 9106
 },
 "mshumer/gpt-prompt-engineer": {
 "archived": false,
@@ -2361,19 +2361,19 @@
 "archived": true,
 "lang": "Python",
 "pushed": "2023-11-21",
-"stars": 3518
+"stars": 3517
 },
 "multica-ai/andrej-karpathy-skills": {
 "archived": false,
 "lang": "",
 "pushed": "2026-04-20",
-"stars": 234586
+"stars": 234804
 },
 "musistudio/claude-code-router": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-16",
-"stars": 38249
+"stars": 38282
 },
 "n3d1117/chatgpt-telegram-bot": {
 "archived": false,
@@ -2390,8 +2390,8 @@
 "n8n-io/n8n": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 211479
+"pushed": "2026-11-21",
+"stars": 211570
 },
 "nagi-ovo/dsh-find-plugins": {
 "archived": false,
@@ -2403,19 +2403,19 @@
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-19",
-"stars": 5375
+"stars": 5376
 },
 "nanobrowser/nanobrowser": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-17",
-"stars": 14353
+"stars": 14359
 },
 "nashsu/llm_wiki": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-10-21",
-"stars": 21784
+"stars": 21797
 },
 "netease-youdao/bcembedding": {
 "archived": false,
@@ -2432,8 +2432,8 @@
 "neuml/txtai": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-19",
-"stars": 13661
+"pushed": "2026-11-21",
+"stars": 13693
 },
 "nicepkg/gpt-runner": {
 "archived": false,
@@ -2463,49 +2463,49 @@
 "archived": false,
 "lang": "C++",
 "pushed": "2025-05-27",
-"stars": 77332
+"stars": 77330
 },
 "notasithlord/peerd": {
 "archived": false,
 "lang": "JavaScript",
-"pushed": "2026-11-18",
+"pushed": "2026-11-20",
 "stars": 425
 },
 "nottelabs/notte": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 2070
+"pushed": "2026-11-21",
+"stars": 2072
 },
 "nousresearch/hermes-agent": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 264841
+"pushed": "2026-11-21",
+"stars": 265059
 },
 "nutlope/hallmark": {
 "archived": false,
 "lang": "CSS",
 "pushed": "2026-11-11",
-"stars": 58237
+"stars": 58761
 },
 "nvidia/skillspector": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-19",
-"stars": 26994
+"pushed": "2026-11-20",
+"stars": 27100
 },
 "obra/superpowers": {
 "archived": false,
 "lang": "Shell",
 "pushed": "2026-11-03",
-"stars": 322368
+"stars": 323039
 },
 "obra/superpowers-marketplace": {
 "archived": false,
 "lang": "",
 "pushed": "2026-11-03",
-"stars": 1332
+"stars": 1334
 },
 "obra/superpowers-skills": {
 "archived": true,
@@ -2522,74 +2522,74 @@
 "ollama/ollama": {
 "archived": false,
 "lang": "Go",
-"pushed": "2026-11-19",
-"stars": 187709
+"pushed": "2026-11-21",
+"stars": 187797
 },
 "omnigent-ai/omnigent": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 11451
+"pushed": "2026-11-21",
+"stars": 11475
 },
 "oobabooga/text-generation-webui": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-08-17",
-"stars": 47732
+"stars": 47734
 },
 "oomol-lab/open-connector": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 6275
+"pushed": "2026-11-21",
+"stars": 6279
 },
 "open-webui/open-webui": {
 "archived": false,
 "lang": "Svelte",
 "pushed": "2026-11-20",
-"stars": 159129
+"stars": 159191
 },
 "openadaptai/openadapt": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 1890
+"pushed": "2026-11-21",
+"stars": 1894
 },
 "openai/codex": {
 "archived": false,
 "lang": "Rust",
-"pushed": "2026-11-20",
-"stars": 135943
+"pushed": "2026-11-21",
+"stars": 136017
 },
 "openai/codex-action": {
 "archived": false,
 "lang": "JavaScript",
 "pushed": "2026-11-18",
-"stars": 1308
+"stars": 1310
 },
 "openai/codex-plugin-cc": {
 "archived": false,
 "lang": "JavaScript",
 "pushed": "2026-07-08",
-"stars": 35305
+"stars": 35317
 },
 "openai/codex-security": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 14205
+"pushed": "2026-11-21",
+"stars": 14234
 },
 "openai/openai-agents-python": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 30781
+"pushed": "2026-11-21",
+"stars": 30794
 },
 "openai/openai-cookbook": {
 "archived": false,
 "lang": "Jupyter Notebook",
 "pushed": "2026-11-19",
-"stars": 77246
+"stars": 77257
 },
 "openai/openai-node": {
 "archived": false,
@@ -2601,19 +2601,19 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 32201
+"stars": 32208
 },
 "openai/skills": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-10-28",
-"stars": 28850
+"stars": 28863
 },
 "openai/swelancer-benchmark": {
 "archived": true,
 "lang": "",
 "pushed": "2025-07-18",
-"stars": 1428
+"stars": 1429
 },
 "openbmb/agentcpm-gui": {
 "archived": false,
@@ -2625,7 +2625,7 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-07-31",
-"stars": 8546
+"stars": 8547
 },
 "openchatai/openchat": {
 "archived": true,
@@ -2636,14 +2636,14 @@
 "openclaw/openclaw": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 394867
+"pushed": "2026-11-21",
+"stars": 394943
 },
 "opendatalab/mineru": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 84031
+"stars": 84084
 },
 "opengvlab/genexam": {
 "archived": false,
@@ -2654,8 +2654,8 @@
 "openinterpreter/open-interpreter": {
 "archived": false,
 "lang": "Rust",
-"pushed": "2026-11-20",
-"stars": 68918
+"pushed": "2026-11-21",
+"stars": 68924
 },
 "openlm-research/open_llama": {
 "archived": false,
@@ -2673,13 +2673,13 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-15",
-"stars": 1950
+"stars": 1957
 },
 "openspg/kag": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-19",
-"stars": 9179
+"stars": 9183
 },
 "optimalscale/lmflow": {
 "archived": false,
@@ -2690,14 +2690,14 @@
 "orbi-build/orbi": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
+"pushed": "2026-11-21",
 "stars": 260
 },
 "ostris/ai-toolkit": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-18",
-"stars": 12671
+"stars": 12678
 },
 "osu-nlp-group/mind2web": {
 "archived": false,
@@ -2709,7 +2709,7 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-10-19",
-"stars": 10311
+"stars": 10313
 },
 "outlines-dev/outlines": {
 "archived": false,
@@ -2721,7 +2721,7 @@
 "archived": false,
 "lang": "JavaScript",
 "pushed": "2026-11-19",
-"stars": 2713
+"stars": 2714
 },
 "pasky/pi-omplike-advisor": {
 "archived": false,
@@ -2732,8 +2732,8 @@
 "pbakaus/impeccable": {
 "archived": false,
 "lang": "Rust",
-"pushed": "2026-11-20",
-"stars": 113686
+"pushed": "2026-11-21",
+"stars": 114203
 },
 "pengxiao-song/lawgpt": {
 "archived": false,
@@ -2745,13 +2745,13 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-09-02",
-"stars": 13656
+"stars": 13681
 },
 "pgvector/pgvector": {
 "archived": false,
 "lang": "C",
-"pushed": "2026-11-20",
-"stars": 23742
+"pushed": "2026-11-21",
+"stars": 23759
 },
 "phodal/aigc": {
 "archived": false,
@@ -2769,19 +2769,19 @@
 "archived": false,
 "lang": "",
 "pushed": "2026-09-03",
-"stars": 24092
+"stars": 24097
 },
 "pku-yuangroup/chatlaw": {
 "archived": false,
 "lang": "",
 "pushed": "2025-01-04",
-"stars": 7631
+"stars": 7632
 },
 "plandex-ai/plandex": {
 "archived": false,
 "lang": "Go",
 "pushed": "2025-10-03",
-"stars": 15923
+"stars": 15925
 },
 "plexpt/awesome-chatgpt-prompts-zh": {
 "archived": false,
@@ -2793,7 +2793,7 @@
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-20",
-"stars": 13421
+"stars": 13424
 },
 "prompt-engineering/prompt-patterns": {
 "archived": false,
@@ -2805,37 +2805,37 @@
 "archived": false,
 "lang": "Jupyter Notebook",
 "pushed": "2023-03-11",
-"stars": 5674
+"stars": 5676
 },
 "promptfoo/promptfoo": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 27482
+"pushed": "2026-11-21",
+"stars": 27511
 },
 "punkpeye/awesome-mcp-servers": {
 "archived": false,
 "lang": "",
 "pushed": "2026-11-17",
-"stars": 98289
+"stars": 98337
 },
 "puppeteer/puppeteer": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-20",
-"stars": 95874
+"stars": 95875
 },
 "pydantic/pydantic-ai": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 21304
+"pushed": "2026-11-21",
+"stars": 21322
 },
 "pythagora-io/gpt-pilot": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-06-18",
-"stars": 33640
+"stars": 33641
 },
 "qataruts/monlite": {
 "archived": false,
@@ -2847,49 +2847,49 @@
 "archived": false,
 "lang": "Rust",
 "pushed": "2026-11-20",
-"stars": 35641
+"stars": 35652
 },
 "quantumnous/new-api": {
 "archived": false,
 "lang": "Go",
 "pushed": "2026-11-20",
-"stars": 52261
+"stars": 52295
 },
 "qunash/chatgpt-advanced": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2024-08-13",
-"stars": 6415
+"stars": 6416
 },
 "qwenlm/qwen-agentworld": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-07-20",
-"stars": 1047
+"stars": 1048
 },
 "qwenlm/qwen-code": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 30803
+"pushed": "2026-11-21",
+"stars": 30829
 },
 "qwenlm/qwen-image": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-02-10",
-"stars": 8489
+"stars": 8488
 },
 "qwenlm/qwen2.5": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-01-09",
-"stars": 27748
+"stars": 27753
 },
 "qwenlm/qwen3": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-01-09",
-"stars": 27748
+"stars": 27753
 },
 "qwenlm/qwen3-vl": {
 "archived": false,
@@ -2906,8 +2906,8 @@
 "rasbt/llms-from-scratch": {
 "archived": false,
 "lang": "Jupyter Notebook",
-"pushed": "2026-11-09",
-"stars": 108688
+"pushed": "2026-11-20",
+"stars": 108733
 },
 "ray-project/llm-numbers": {
 "archived": false,
@@ -2931,13 +2931,13 @@
 "archived": true,
 "lang": "TypeScript",
 "pushed": "2025-04-29",
-"stars": 36265
+"stars": 36269
 },
 "rlaope/oh-my-hermes": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 5804
+"pushed": "2026-11-21",
+"stars": 5830
 },
 "rockchinq/langbot": {
 "archived": false,
@@ -2960,38 +2960,38 @@
 "router-for-me/cliproxyapi": {
 "archived": false,
 "lang": "Go",
-"pushed": "2026-11-20",
-"stars": 59052
+"pushed": "2026-11-21",
+"stars": 59138
 },
 "run-llama/llama_index": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 52966
+"stars": 52973
 },
 "ruvnet/ruflo": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 82128
+"pushed": "2026-11-21",
+"stars": 82186
 },
 "scir-hi/huatuo-llama-med-chinese": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-07-04",
-"stars": 4999
+"stars": 4998
 },
 "scrapegraphai/scrapegraph-ai": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-10-06",
-"stars": 32867
+"stars": 32875
 },
 "sgl-project/sglang": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 38868
+"pushed": "2026-11-21",
+"stars": 38896
 },
 "shareai-lab/kode-cli": {
 "archived": false,
@@ -3009,19 +3009,19 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-04-24",
-"stars": 1931
+"stars": 1932
 },
 "shubhamsaboo/awesome-llm-apps": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-18",
-"stars": 145109
+"stars": 145245
 },
 "significant-gravitas/autogpt": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 188119
+"pushed": "2026-11-21",
+"stars": 188122
 },
 "simon-he95/markstream-vue": {
 "archived": false,
@@ -3032,20 +3032,20 @@
 "simular-ai/agent-s": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-13",
-"stars": 13009
+"pushed": "2026-11-21",
+"stars": 13014
 },
 "sirmalloc/ccstatusline": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-16",
-"stars": 13647
+"stars": 13654
 },
 "siteboon/claudecodeui": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-19",
-"stars": 14701
+"stars": 14712
 },
 "skalskip/awesome-chatgpt-code-interpreter-experiments": {
 "archived": false,
@@ -3056,32 +3056,32 @@
 "skyvern-ai/skyvern": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-19",
-"stars": 23477
+"pushed": "2026-11-21",
+"stars": 23483
 },
 "slopus/happy": {
 "archived": false,
 "lang": "Swift",
 "pushed": "2026-11-20",
-"stars": 24718
+"stars": 24740
 },
 "smtg-ai/claude-squad": {
 "archived": false,
 "lang": "Go",
 "pushed": "2026-11-13",
-"stars": 8837
+"stars": 8844
 },
 "songguoxs/gpt4o-image-prompts": {
 "archived": false,
 "lang": "JavaScript",
 "pushed": "2026-01-08",
-"stars": 3879
+"stars": 3882
 },
 "songquanpeng/one-api": {
 "archived": false,
 "lang": "JavaScript",
 "pushed": "2026-01-09",
-"stars": 37452
+"stars": 37453
 },
 "sourcegraph/awesome-code-ai": {
 "archived": true,
@@ -3099,37 +3099,37 @@
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-10-21",
-"stars": 5854
+"stars": 5856
 },
 "sst/models.dev": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 7695
+"pushed": "2026-11-21",
+"stars": 7702
 },
 "sst/opencode": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 228125
+"pushed": "2026-11-21",
+"stars": 228298
 },
 "stablyai/orca": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 130287
+"pushed": "2026-11-21",
+"stars": 131328
 },
 "stanfordnlp/dspy": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-19",
-"stars": 39147
+"stars": 39163
 },
 "startrail-org/pixelrag": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-19",
-"stars": 10969
+"stars": 10972
 },
 "steel-dev/awesome-web-agents": {
 "archived": false,
@@ -3140,8 +3140,8 @@
 "steel-dev/steel-browser": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-19",
-"stars": 7994
+"pushed": "2026-11-21",
+"stars": 7997
 },
 "stepfun-ai/step1x-edit": {
 "archived": false,
@@ -3159,43 +3159,43 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2025-09-25",
-"stars": 19545
+"stars": 19544
 },
 "stripe/agent-toolkit": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 2075
+"pushed": "2026-11-21",
+"stars": 2076
 },
 "superclaude-org/superclaude_framework": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-09-27",
-"stars": 23946
+"stars": 23951
 },
 "swe-agent/swe-agent": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-16",
-"stars": 20835
+"stars": 20841
 },
 "swe-bench/swe-bench": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-09-18",
-"stars": 6223
+"stars": 6228
 },
 "sweesama/readgzh": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-17",
+"pushed": "2026-11-20",
 "stars": 9
 },
 "synthetic-sciences/openscience": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-20",
-"stars": 4404
+"stars": 4405
 },
 "t-lab-cuhksz/claude-code": {
 "archived": false,
@@ -3207,13 +3207,13 @@
 "archived": false,
 "lang": "Rust",
 "pushed": "2026-06-30",
-"stars": 33930
+"stars": 33933
 },
 "taishi-i/awesome-chatgpt-repositories": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-19",
-"stars": 3382
+"stars": 3383
 },
 "taranjeet/awesome-gpts": {
 "archived": false,
@@ -3230,20 +3230,20 @@
 "tashfeenahmed/freellmapi": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-19",
-"stars": 55386
+"pushed": "2026-11-20",
+"stars": 55821
 },
 "tatsu-lab/stanford_alpaca": {
 "archived": false,
 "lang": "Python",
 "pushed": "2024-07-17",
-"stars": 30220
+"stars": 30221
 },
 "tauricresearch/tradingagents": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-17",
-"stars": 123213
+"stars": 123329
 },
 "taxyai/browser-extension": {
 "archived": false,
@@ -3255,13 +3255,13 @@
 "archived": false,
 "lang": "Go",
 "pushed": "2026-11-20",
-"stars": 7238
+"stars": 7241
 },
 "tencent-hunyuan/hunyuanimage-3.0": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-06-23",
-"stars": 3304
+"stars": 3305
 },
 "tencentqqgylab/appagent": {
 "archived": false,
@@ -3278,20 +3278,20 @@
 "thedotmack/claude-mem": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-19",
-"stars": 118515
+"pushed": "2026-11-21",
+"stars": 118720
 },
 "ther1d/shell_gpt": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-07-02",
-"stars": 12312
+"stars": 12315
 },
 "thinkinaixyz/deepchat": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 6407
+"pushed": "2026-11-21",
+"stars": 6408
 },
 "thudm/chatglm-6b": {
 "archived": false,
@@ -3303,19 +3303,19 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2024-08-13",
-"stars": 8797
+"stars": 8799
 },
 "thudm/glm-130b": {
 "archived": false,
 "lang": "Python",
 "pushed": "2023-07-25",
-"stars": 7644
+"stars": 7643
 },
 "tiger-ai-lab/clawbench": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-05",
-"stars": 1318
+"stars": 1324
 },
 "tigicion/dao-code": {
 "archived": false,
@@ -3333,19 +3333,19 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-02-09",
-"stars": 12170
+"stars": 12176
 },
 "torantulino/auto-gpt": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 188119
+"pushed": "2026-11-21",
+"stars": 188122
 },
 "travisvn/awesome-claude-skills": {
 "archived": false,
 "lang": "",
 "pushed": "2026-04-28",
-"stars": 15880
+"stars": 15887
 },
 "trotsky1997/openfugu": {
 "archived": false,
@@ -3357,13 +3357,13 @@
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-20",
-"stars": 6520
+"stars": 6571
 },
 "trycua/cua": {
 "archived": false,
 "lang": "Rust",
-"pushed": "2026-11-20",
-"stars": 32695
+"pushed": "2026-11-21",
+"stars": 32725
 },
 "trypromptly/llmstack": {
 "archived": false,
@@ -3375,37 +3375,37 @@
 "archived": false,
 "lang": "Rust",
 "pushed": "2026-10-07",
-"stars": 668
+"stars": 670
 },
 "ultraworkers/claw-code": {
 "archived": false,
 "lang": "Rust",
 "pushed": "2026-11-10",
-"stars": 194759
+"stars": 194754
 },
 "unclecode/crawl4ai": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-19",
-"stars": 87582
+"pushed": "2026-11-20",
+"stars": 87619
 },
 "unslothai/unsloth": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 79819
+"pushed": "2026-11-21",
+"stars": 79873
 },
 "upstash/context7": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-20",
-"stars": 65156
+"stars": 65202
 },
 "usestrix/strix": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-19",
-"stars": 76739
+"stars": 76854
 },
 "usewhale/whale": {
 "archived": false,
@@ -3417,37 +3417,37 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-07-22",
-"stars": 5012
+"stars": 5014
 },
 "vercel-labs/agent-browser": {
 "archived": false,
 "lang": "Rust",
-"pushed": "2026-11-20",
-"stars": 52953
+"pushed": "2026-11-21",
+"stars": 53127
 },
 "vercel-labs/ai": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 28102
+"pushed": "2026-11-21",
+"stars": 28117
 },
 "vercel-labs/ai-chatbot": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-03",
-"stars": 21064
+"stars": 21065
 },
 "vercel/ai": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 28102
+"pushed": "2026-11-21",
+"stars": 28117
 },
 "vercel/eve": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 6023
+"pushed": "2026-11-21",
+"stars": 6032
 },
 "vision-cair/minigpt-4": {
 "archived": false,
@@ -3464,44 +3464,44 @@
 "vllm-project/vllm": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 97247
+"pushed": "2026-11-21",
+"stars": 97299
 },
 "volcengine/verl": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-20",
-"stars": 24293
+"stars": 24301
 },
 "voltagent/awesome-agent-skills": {
 "archived": false,
 "lang": "",
 "pushed": "2026-11-15",
-"stars": 37371
+"stars": 37402
 },
 "vostride/agent-qa": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-19",
-"stars": 820
+"pushed": "2026-11-20",
+"stars": 819
 },
 "wanshuiyin/anti-autoresearch": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-18",
-"stars": 180
+"stars": 181
 },
 "wanshuiyin/auto-claude-code-research-in-sleep": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-19",
-"stars": 19498
+"stars": 19543
 },
 "weaviate/weaviate": {
 "archived": false,
 "lang": "Go",
 "pushed": "2026-11-20",
-"stars": 16956
+"stars": 16959
 },
 "web-arena-x/webarena": {
 "archived": false,
@@ -3513,19 +3513,19 @@
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-20",
-"stars": 15654
+"stars": 15684
 },
 "wei-shaw/claude-relay-service": {
 "archived": false,
 "lang": "JavaScript",
-"pushed": "2026-11-19",
-"stars": 12828
+"pushed": "2026-11-20",
+"stars": 12827
 },
 "wei-shaw/sub2api": {
 "archived": false,
 "lang": "Go",
 "pushed": "2026-11-20",
-"stars": 46335
+"stars": 46380
 },
 "wenda-llm/wenda": {
 "archived": false,
@@ -3537,7 +3537,7 @@
 "archived": false,
 "lang": "",
 "pushed": "2024-11-30",
-"stars": 6486
+"stars": 6485
 },
 "wikieden/awesome-chatgpt-prompts-cn": {
 "archived": false,
@@ -3548,20 +3548,20 @@
 "wiltodelta/remove-ai-watermarks": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 6468
+"pushed": "2026-11-21",
+"stars": 6475
 },
 "winfunc/opcode": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-06",
-"stars": 22452
+"stars": 22453
 },
 "wong2/awesome-mcp-servers": {
 "archived": false,
 "lang": "",
 "pushed": "2026-07-13",
-"stars": 4415
+"stars": 4416
 },
 "woooodyy/llm-agent-paper-list": {
 "archived": false,
@@ -3579,79 +3579,79 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-18",
-"stars": 42717
+"stars": 42756
 },
 "wzpan/wukong-robot": {
 "archived": false,
 "lang": "Python",
 "pushed": "2024-10-25",
-"stars": 7132
+"stars": 7133
 },
 "x-plug/mobileagent": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-03",
-"stars": 9393
+"stars": 9396
 },
 "x1xhlol/system-prompts-and-models-of-ai-tools": {
 "archived": false,
 "lang": "",
 "pushed": "2026-10-12",
-"stars": 144777
+"stars": 144796
 },
 "xai-org/grok-1": {
 "archived": false,
 "lang": "Python",
 "pushed": "2024-08-30",
-"stars": 52238
+"stars": 52239
 },
 "xai-org/grok-build": {
 "archived": false,
 "lang": "Rust",
 "pushed": "2026-09-29",
-"stars": 27810
+"stars": 27821
 },
 "xiangsx/gpt4free-ts": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2024-09-04",
-"stars": 7638
+"stars": 7639
 },
 "xiaomimimo/mimo-code": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-11-20",
-"stars": 13794
+"stars": 13798
 },
 "xiaoming2028/chatgpt-makes-money": {
 "archived": false,
 "lang": "",
 "pushed": "2026-05-18",
-"stars": 366
+"stars": 367
 },
 "xiaomingx/ai-money-maker-handbook": {
 "archived": false,
 "lang": "CSS",
-"pushed": "2026-11-20",
-"stars": 7442
+"pushed": "2026-11-21",
+"stars": 7453
 },
 "xlang-ai/osworld": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-14",
-"stars": 3270
+"stars": 3272
 },
 "xtekky/gpt4free": {
 "archived": false,
 "lang": "Python",
 "pushed": "2026-11-11",
-"stars": 67089
+"stars": 67093
 },
 "xx025/carrot": {
 "archived": false,
 "lang": "",
 "pushed": "2026-11-18",
-"stars": 17227
+"stars": 17229
 },
 "xytom/coding-tools-mcp": {
 "archived": false,
@@ -3663,31 +3663,31 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2024-10-24",
-"stars": 6641
+"stars": 6640
 },
 "yc-duan/fastctx": {
 "archived": false,
 "lang": "Rust",
-"pushed": "2026-11-19",
-"stars": 1557
+"pushed": "2026-11-21",
+"stars": 1556
 },
 "yc-software/qm": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 15748
+"pushed": "2026-11-21",
+"stars": 15755
 },
 "yeachan-heo/oh-my-claudecode": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-19",
-"stars": 40966
+"pushed": "2026-11-21",
+"stars": 40984
 },
 "yidadaa/chatgpt-next-web": {
 "archived": false,
 "lang": "TypeScript",
 "pushed": "2026-10-20",
-"stars": 88985
+"stars": 88982
 },
 "ymcui/chinese-llama-alpaca": {
 "archived": false,
@@ -3699,7 +3699,7 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-01-31",
-"stars": 22359
+"stars": 22358
 },
 "yokonsan/claude-in-slack-api": {
 "archived": false,
@@ -3710,14 +3710,14 @@
 "youmind-openlab/awesome-nano-banana-pro-prompts": {
 "archived": false,
 "lang": "TypeScript",
-"pushed": "2026-11-20",
-"stars": 13829
+"pushed": "2026-11-21",
+"stars": 13840
 },
 "young-geng/easylm": {
 "archived": false,
 "lang": "Python",
 "pushed": "2024-08-13",
-"stars": 2514
+"stars": 2515
 },
 "yuanzui0728/enclave": {
 "archived": false,
@@ -3735,18 +3735,18 @@
 "archived": false,
 "lang": "Rust",
 "pushed": "2026-11-18",
-"stars": 1273
+"stars": 1274
 },
 "yzfly/awesome-claude-prompts": {
 "archived": false,
 "lang": "",
 "pushed": "2026-11-14",
-"stars": 5588
+"stars": 5589
 },
 "yzfly/awesome-dsh-skills": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
+"pushed": "2026-11-21",
 "stars": 30
 },
 "yzfly/awesome-multimodal-prompts": {
@@ -3759,7 +3759,7 @@
 "archived": false,
 "lang": "Jupyter Notebook",
 "pushed": "2026-09-11",
-"stars": 12716
+"stars": 12721
 },
 "yzfly/my-awesomes-collection": {
 "archived": false,
@@ -3782,8 +3782,8 @@
 "zhayujie/chatgpt-on-wechat": {
 "archived": false,
 "lang": "Python",
-"pushed": "2026-11-20",
-"stars": 48020
+"pushed": "2026-11-21",
+"stars": 48026
 },
 "zho-zho-zho/nano-bananary": {
 "archived": false,
@@ -3801,7 +3801,7 @@
 "archived": false,
 "lang": "Python",
 "pushed": "2026-09-22",
-"stars": 8402
+"stars": 8404
 },
 "zilliztech/gptcache": {
 "archived": false,
